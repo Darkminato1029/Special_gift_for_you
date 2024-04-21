@@ -18,16 +18,16 @@ header
 }
 img
 {
-    width: 180px;
-    height: 300px;
+    width: 360px;
+    height: 600px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 .imgmain
 {
-width: 350px;
-    height: 270px;
+width: 700px;
+    height: 540px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -35,8 +35,8 @@ width: 350px;
 }
 .imgmain2
 {
-width: 280px;
-    height: 270px;
+width: 560px;
+    height: 540px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -48,16 +48,16 @@ p
 }
 .imgmain3
 {
-width: 350px;
-    height: 270px;
+width: 700px;
+    height: 540px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     }
 .imgmain4
 {
-width: 300px;
-    height: 270px;
+width: 600px;
+    height: 540px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -65,16 +65,16 @@ width: 300px;
     
 .imgmain5
 {
-width: 280px;
-    height: 270px;
+width: 560px;
+    height: 540px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     }
 .imgmain7
 {
-width: 280px;
-    height: 500px;
+width: 560px;
+    height: 1000px;
     display: block;
     margin-left: auto;
     margin-right: auto;
